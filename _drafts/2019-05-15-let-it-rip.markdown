@@ -1,0 +1,40 @@
+---
+layout: post
+title: Let it RIP (Relentless Iterative Progress)
+date: '2020-06-01 18:02:24'
+---
+
+There's also something to be said about let it rest in peace, so I'll make a note to write up something about opportunity cost, managing product surface area, and deprecation stuff. But for right now, we're going to talk about Relentless Iterative Progress.
+
+This was something first shared with me by Charlie Cheever, an angel investor for my current company. He didn't bill it this way when he told it to me. If I remember right, I was discussing some glaring scaling issues we were facing at the time. I may have even suggested that one of our tech leads was floating a complete rewrite. Charlie, without skipping a beat, simply said: "Yeah, I don't do those." We then went on to have a quick discussion about minimizing time and effort needed to ship a change. He showed me a tool he'd built to monitor the amount of time it takes to load all the npm modules in your project. (Ours didn't score so hot)
+
+Context: we had an older version of an application that was. We had a few pages that couldn't support more than 5 concurrent sessions before maxing out our servers and crashing. It was pretty devasting and obviosly an untenable situation.
+
+But back to the exchange.
+
+The advice wasn't too different from what you'd read in any Lean Startup materials or modern startups cult-ure. Move fast, break things, talk to customers, ship, in some order. Rinse, lather, ship, refactor.
+
+Everyone understands the concept of iterating when it comes to product. We come up with a hypothesis, put it in the hands of customers, let them use it for a bit, then come back with feedback. We then reflect, revise our hypothesis, and then do it again.
+
+This alone would get you pretty close to RIP, but it misses or at least doesn't explicitly note the element of risk mitigation for the business and forward progress/momentum.
+
+At best, teams internalize it as a manifestation of the optimal path to shipping the right product, but there's more to it, specifically the relevance to a business and the ability to minimize sunk cost.
+
+Time is the scarcest resource in a startup. Product and Engineering need time to build things that can be sold. If people think the most important thing is money, then that's only a different way of representing time through the lens of your burn rate. Time and how it can manifest in opportunity cost should always be top of mind.
+
+I'm a sucker for sports analogies, so the appropriate one here is at bats in baseball. Each at bat, a player can help his or her team score a run. This was the whole focus of the Moneyball Athletics: don't make an out. This approach to value allowed the A’s front office to prioritize players who could get on base with a high On Base Percentage (OBP), passing up players who were standouts in the classical counting stats.
+
+The equivalent of an out for us is wasted code or time spent developing the wrong thing. (sidebar: don't be afraid to throw away code. No code is the best code—way better than crummy code that's serving no purpose.)
+
+Without going down a rabbit hole and debating the merits of throw-away code, I’m instead focusing on blatantly wrong product and or features. The type that ultimately don’t get finished and don’t get launched. The kind that don’t bring any value to users. That’s our “out” in this analogy, and that’s the type of effort we want to avoid.
+
+Don't waste a day of development time working on something that won't deliver value to your customers or team.
+
+Put another way. Never concede an inch.
+
+I’m going to say something that might seem contradictory, but in the context of this advice, really should ring true: don’t succumb to the sunk cost fallacy. You should always be evaluating the feature you’re working on and not be too afraid to cut your losses and walk away. This becomes even easier when you practice RIP because the net difference of work that you determine isn’t going to bring value, should be a pretty small amount. It’s like a dynamic programming solution, just assume everything you did yesterday and before was bringing value, so in the worst case scenario, you’re just looking at today’s contributions.
+
+A good example is a Greenfield project. At some point or another, a given startup will be faced with the age old dilemma of rewriting something or refactoring it. The former is the favored path for most people. Exceptions being folks who used to be advocates, but who then got burned.
+
+
+So getting the optimal product is not only a way to ship a better product faster, it's a better way to help the company.
