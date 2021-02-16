@@ -9,7 +9,7 @@ layout: default
         <h1>{{ post.title }}</h1>
 
         <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+          <p class="author_title">{{site.author}}  ·  {{ post.date | date: "%B %e, %Y" }}</p>
         </div>
       </a>
       <div class="entry">
