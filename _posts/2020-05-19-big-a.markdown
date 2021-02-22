@@ -1,0 +1,13 @@
+---
+layout: post
+title: Big A
+date: '2020-05-20'
+---
+
+If you’re an engineer, you might spell agile with four letters depending on your assessment of how well your company practices it.
+
+Ten years ago, I was at an agile meetup in Chicago when someone at my breakout table mentioned big-A agile versus agile. I had never heard the expression before, but as soon as she said it, it clicked.
+
+Folks have gotten pretty jaded by standups, Jira, and scrum masters and other inefficent artifacts foisted upon product and engineering teams over the past two decades. Too much cargo culting of anything will do that.
+
+Remember that humans are mere mortals, and that there can sometimes be good—or even great—ideas that are implemented poorly or exploited by capitalistic entities. We should try to keep an open mind and see if we can identify this in practice.

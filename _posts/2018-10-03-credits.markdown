@@ -1,0 +1,19 @@
+---
+layout: post
+title: Credits for startups work
+date: '2018-07-17'
+---
+
+Cloud credits for startups work. My current company has some degree of infrastructure across all major cloud providers—probably because at one point in time we were offered free credits.
+
+I've seen this story plenty of times before. And let's be honest, the vendors wouldn't do it if it didn't work.
+
+Someone in engineering takes them and runs with it, probably with the blessing of the CEO and/or CFO because nearly every startup begins its life cash-strapped. It only becomes a problem if you're successful. A classic example of a "good problem to have", nevermind that it'll still very much be a problem.
+
+But let's assume you're lucky, and you live to see the other shoe drop. At this point, you're staring at some very real vendor lock-in for your systems. You'll face added maintance costs because you might have systems spread across multiple providers and now you need to keep an app on AWS and GCP happy and HA with up-to-date certs, but you only really know AWS. So you start thinking about picking one. And if you decide to consolidate on AWS, you'll need to invest in a migration—most likely eating away at any of your initial savings.
+
+But that's the thing. It's probably not appropriate to think of these as credits so much as a form of technical debt currency. You incur some tech debt by using a platform that's "free", but like other forms of tech debt, it'll introduce risk and affect development velocity.
+
+So should you avoid the credits? Of course not. It's free money! The trick is to time it right, or at least better. The best way to do that is to be more mindful and open about these costs when you're in the debt stage.
+
+But again, this is a good problem to have. 
