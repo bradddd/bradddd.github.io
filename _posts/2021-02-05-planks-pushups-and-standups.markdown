@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Planks, pushups, and standups
-date: '2020-11-18'
+date: '2021-02-05'
 ---
 
 I was recently having a conversation with an engineering leader at another company, and he was curious about standups. His company wanted to be agile, so his product leader set up standups for the team as well as the accompanying ceremonies to round out the Scrum experience, but he was concerned that it seemed like a waste of time. He wanted to know what it was like for other companies.
