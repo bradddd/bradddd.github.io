@@ -8,9 +8,13 @@ My reading list from the past few years.
 
 - Crucial Conversations
 - Ask your developers
+- Playing to Win
+- The Coaching Habit
 - Unshakeable
 - Weapons math destruction 
 - No Rules Rules
+- Managing Humans
+- Agile Coaching
 - Secrets of Sand Hill Road
 - Super Pumped the Battle for Uber
 - Hatching Twitter
@@ -21,7 +25,7 @@ My reading list from the past few years.
 - That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea
 - 15 Commitments of Conscious Leadership
 - Team of Teams
-- The Best Investment Advice
+- The Best Investment Advice I Ever Received
 - Trillion Dollar Coach
 - The  Phoenix Project
 - Range
@@ -35,7 +39,8 @@ My reading list from the past few years.
 - How Google Works
 - The Score Takes Care of Itself
 - The Subtle Art of Not Giving a F*ck
-- Turn the ship around
+- Turn the Ship Around
+- The Goal
 - An Elegant Puzzle
 - Why We Sleep
 - The First 90 Days
@@ -49,6 +54,7 @@ My reading list from the past few years.
 - What Successful People Do In The Morning
 - Good To Great
 - Blitzscaling
+- Getting Things Done
 - Deep Work
 - When
 - Grit
@@ -67,6 +73,7 @@ My reading list from the past few years.
 - The Four
 - Startup Engineering Management
 - Chaos Monkeys: Inside the Silicon Valley Money Machine
+- Silos, Politics and Turf Wars
 - How to Win Friends and Influence People
 - Leaders Eat Last
 - Measure what Matters
@@ -76,6 +83,7 @@ My reading list from the past few years.
 - The Millionaire Next Door
 - Kitchen Confidential
 - Culture Code
+- The Snowball
 - Making Great Choices
 - I will teach you to be rich
 - The Effective Engineer
