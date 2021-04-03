@@ -6,6 +6,7 @@ permalink: /books/
 
 My reading list from the past few years.
 
+- We Are The Nerds
 - Crucial Conversations
 - Ask your developers
 - Playing to Win
