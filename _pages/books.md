@@ -6,6 +6,11 @@ permalink: /books/
 
 My reading list from the past few years.
 
+- Amazon Unbound
+- Data Pipelines Pocket Reference
+- Vivid Vision
+- Start-Up Secure
+- Leading Without Authority
 - We Are The Nerds
 - Crucial Conversations
 - Ask your developers
