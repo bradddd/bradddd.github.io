@@ -5,12 +5,12 @@
     {% seo %}
     {% include meta.html %}
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/style.css' | relative_url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ '/feed.xml' | relative_url }}" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     <meta name="theme-color" content="#000000">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
   </head>
 
   <body>
@@ -19,18 +19,18 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" /></a>
+            <a href="{{ '/' | relative_url }}" class="site-avatar"><img src="{{ site.avatar | relative_url }}" /></a>
 
             <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <h1 class="site-name"><a href="{{ '/' | relative_url }}">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p> 
             </div>
 
             <nav>
-              <a href="{{ site.baseurl }}/">Blog</a>
-              <a href="{{ site.baseurl }}/search">Search</a>
-              <a href="{{ site.baseurl }}/books">Books</a>
-              <a href="{{ site.baseurl }}/about">About</a>
+              <a href="{{ '/' | relative_url }}">Blog</a>
+              <a href="{{ '/search' | relative_url }}">Search</a>
+              <a href="{{ '/books' | relative_url }}">Books</a>
+              <a href="{{ '/about' | relative_url }}">About</a>
             </nav>
           </header>
         </div>
