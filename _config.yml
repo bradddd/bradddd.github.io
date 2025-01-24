@@ -83,6 +83,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-remote-theme
 
 include: ['_pages']
 
@@ -98,6 +99,3 @@ exclude:
   - CNAME
 
 remote_theme: jekyll/minima
-
-plugins:
-- jekyll-remote-theme
