@@ -26,11 +26,11 @@ footer-links:
   flickr:
   github: bradddd
   instagram:
-  linkedin: 
+  linkedin:
   pinterest:
   rss: rss
   twitter:
-  stackoverflow: 
+  stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
@@ -38,7 +38,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-FDCXV5P7LC
@@ -97,5 +97,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Show future posts (optional - uncomment if you want to show posts with future dates)
+future: true
 
 remote_theme: jekyll/minima

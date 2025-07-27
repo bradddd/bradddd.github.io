@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Currently head up engineering at Mainstay (formerly known as AdmitHub). Before that, founder of ClassForward. Before that, other startups, data, and consulting. Also advising other early stage startups. Opinions here are my own.
+Currently leading engineering at Suno. Previously worked at Google on the Spanner team. Before that, led engineering at Mainstay (formerly known as AdmitHub). Before that, ClassForward. Before that, other startups, data, and consulting. Also advising other early stage startups. Opinions here are my own.
