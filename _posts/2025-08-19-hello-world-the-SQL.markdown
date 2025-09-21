@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello, World: The SQL"
-date: '2027-08-19'
+date: '2025-08-19'
 ---
 
 Hi again. I threw a fresh coat of paint on the blog. I’m hoping to share more regularly in the coming months. I’ve got plenty of writing from past teams that I’d like to expand into longer pieces here. If there’s anything specific you’d like to hear about, let me know. I might experiment with Substack or other distribution options too, though I don’t plan to wire up email here (it’s easier than ever to roll your own these days).
